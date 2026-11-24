@@ -1,0 +1,12 @@
+# Thème glassmorphism sombre : nuit + teal (énergie) + violet
+# Les détails visuels (verre, flou, halos) sont dans theme.py
+[theme]
+base = "dark"
+primaryColor = "#3dffb0"
+backgroundColor = "#070b14"
+secondaryBackgroundColor = "#0d1424"
+textColor = "#e8eef8"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
